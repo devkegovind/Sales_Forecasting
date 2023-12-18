@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+flask
+wordcloud
+scikit-learn
+ipykernel
+setuptools
+
+-e .
